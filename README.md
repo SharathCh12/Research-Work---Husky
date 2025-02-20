@@ -28,3 +28,12 @@ This project was developed as part of my role as a **Research Data Analyst** at 
 - **Python & SQL** – Data Cleaning & Processing  
 
 ## Project Structure  
+📂 research-data-pipeline
+│── 📁 data_sources/ # Raw CSV files
+│── 📁 scripts/ # Python/SQL scripts
+│── 📁 dataflows/ # ADF Pipelines & Dataflows
+│── 📁 models/ # ML Predictions from Databricks
+│── 📁 reports/ # Final reports & dashboards
+│── README.md
+
+
